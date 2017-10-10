@@ -1,6 +1,7 @@
 .index {
 	background-image: url("monument.jpg");
 	background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .profile{
