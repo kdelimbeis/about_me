@@ -1,7 +1,12 @@
+html, body{
+   height: 100%;
+ }
+
 .index {
 	background-image: url("monument.jpg");
-	background-size: 100% 100%;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .profile{
